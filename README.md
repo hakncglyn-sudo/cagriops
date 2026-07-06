@@ -9,7 +9,7 @@ sentetiktir; gerçek kişi veya kurum bilgisi içermez.
 Tek önkoşul: **Python 3.10+** (ek paket gerekmez, her şey standart kütüphane).
 
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/hakncglyn-sudo/cagriops.git
 cd cagriops
 python app.py
 ```
