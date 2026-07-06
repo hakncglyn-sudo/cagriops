@@ -27,6 +27,8 @@ Testler:
 python -m unittest discover -s tests
 ```
 
+> Eğitim capstone görevi: [katilimci/CAPSTONE.md](katilimci/CAPSTONE.md)
+
 ## Endpoint'ler
 
 | Metot | Yol | Açıklama |
