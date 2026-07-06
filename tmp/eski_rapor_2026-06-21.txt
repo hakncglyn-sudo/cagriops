@@ -1,0 +1,3 @@
+﻿Gunluk operasyon ozeti (eski format) - 2026-06-21
+Toplam cagri: 104 | Kapanan: 88 | SLA: %89.1
+Bu dosya eski raporlama scriptinin ciktisidir, yeni surumde kullanilmiyor.
